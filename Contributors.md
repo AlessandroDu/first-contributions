@@ -54,6 +54,7 @@
 - [imbharat420](https://github.com/imbharat420)
 - [DijanaPavlovic](https://github.com/DijanaPavlovic)
 - [Min Phone Aung](https://github.com/PeterHyperAung)
+- [Alessandro Du]
 - [George Babii] (https://github.com/georgevlt)
 - [Sohag] https://github.com/soh-ag
 - [Anna Wolfe]
